@@ -30,3 +30,8 @@ _ReSharper*/
 .vs/
 #Nuget packages folder
 packages/
+/Endpoints/eServiceEndpoints/bin
+/Endpoints/eServiceEndpoints/obj
+/Ui/eTrackerWeb/node_modules
+/Ui/eTrackerWeb/obj
+bin
