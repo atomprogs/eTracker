@@ -1,0 +1,78 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "Rajeev",
+    "LastName": "Ranjan",
+    "Email": "rajeev.cse04@gmail.com",
+    "Password": "123456",
+    "PhoneNumber": 0,
+    "MonthlyLimit": {
+      "Month": 0,
+      "Lowest": 0,
+      "Highest": 0
+    },
+    "SignUpCode": "MWM00K",
+    "Setting": {
+      "IsActive": false,
+      "IsAdmin": false,
+      "IsEnable": false
+    }
+  },
+  {
+    "Id": 2,
+    "FirstName": "Suvidh",
+    "LastName": "Shetty",
+    "Email": "suvidh@yyy.com",
+    "Password": "123456",
+    "PhoneNumber": 0,
+    "MonthlyLimit": {
+      "Month": 0,
+      "Lowest": 0,
+      "Highest": 0
+    },
+    "SignUpCode": "MWM00K",
+    "Setting": {
+      "IsActive": false,
+      "IsAdmin": false,
+      "IsEnable": false
+    }
+  },
+  {
+    "Id": 3,
+    "FirstName": "Anjana",
+    "LastName": "Tiwari",
+    "Email": "anjan@xxx.com",
+    "Password": "123456",
+    "PhoneNumber": 0,
+    "MonthlyLimit": {
+      "Month": 0,
+      "Lowest": 0,
+      "Highest": 0
+    },
+    "SignUpCode": "MWM00K",
+    "Setting": {
+      "IsActive": false,
+      "IsAdmin": false,
+      "IsEnable": false
+    }
+  },
+  {
+    "Id": 4,
+    "FirstName": "Manmohan",
+    "LastName": "Tiwari",
+    "Email": "manmohan@xxx.com",
+    "Password": "123456",
+    "PhoneNumber": 0,
+    "MonthlyLimit": {
+      "Month": 0,
+      "Lowest": 0,
+      "Highest": 0
+    },
+    "SignUpCode": "MWM00K",
+    "Setting": {
+      "IsActive": false,
+      "IsAdmin": false,
+      "IsEnable": false
+    }
+  }
+]

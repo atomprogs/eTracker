@@ -1,0 +1,5 @@
+C:\Working\GitRepo\eTracker\Ui\eTrackerWeb\bin\eTrackerWeb.dll.config
+C:\Working\GitRepo\eTracker\Ui\eTrackerWeb\bin\eTrackerWeb.dll
+C:\Working\GitRepo\eTracker\Ui\eTrackerWeb\bin\eTrackerWeb.pdb
+C:\Working\GitRepo\eTracker\Ui\eTrackerWeb\obj\Debug\eTrackerWeb.dll
+C:\Working\GitRepo\eTracker\Ui\eTrackerWeb\obj\Debug\eTrackerWeb.pdb

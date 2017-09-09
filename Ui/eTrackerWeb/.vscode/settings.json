@@ -1,0 +1,15 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/bin": true,
+        "**/obj": true,
+        "*.csproj": true,
+        "*.csproj.*": true,
+        "*.config": true
+    }
+}

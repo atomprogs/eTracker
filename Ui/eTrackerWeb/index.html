@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>eTracker</title>
+
+    <!-- Style sheets -->
+    <link href="node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="node_modules/bootstrap/dist/css/bootstrap-theme.min.css" rel="stylesheet" />
+</head>
+
+<body ng-app="etracker">
+     <!-- views will be injected here -->
+   
+        <div class="container">
+                <ui-view>
+                        
+                              </ui-view>
+        </div>
+        
+  
+
+    <!-- Library Scripts -->
+    <script src="node_modules/angular/angular.min.js"></script>
+    <script src="node_modules/angular-resource/angular-resource.min.js"></script>
+    <!-- <script src="node_modules/angular-mocks/angular-mocks.js"></script>-->
+    <script src="node_modules/@uirouter/angularjs/release/angular-ui-router.min.js"></script>
+
+    <!-- Application Script -->
+    <script src="app/app.js"></script>
+    <script src="app/app.route.js"></script>
+    <script src="app/login/login.app.js"></script>
+    <!-- Domain Classes -->
+    <!-- Services -->
+    <script src="app/login/login.app.svc.js"></script>
+    <!-- Controllers -->
+    <script src="app/login/login.app.ctrl.js"></script>
+    <!-- Directive -->
+
+</body>
+
+</html>
