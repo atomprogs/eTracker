@@ -60,7 +60,7 @@ namespace eServiceEndpoints.Utility
                 mailMsg.IsBodyHtml = true;
                 // Init SmtpClient and send
                 var smtpClient = new SmtpClient("smtp.sendgrid.net", Convert.ToInt32(587));
-                System.Net.NetworkCredential credentials = new System.Net.NetworkCredential("azure_62c9778703dadb1f7e3f5e08c698c7d1@azure.com", "0Z9C0nk62DxUFNe");
+                System.Net.NetworkCredential credentials = new System.Net.NetworkCredential("", "");
                 smtpClient.Credentials = credentials;
                 smtpClient.EnableSsl = false;
 
